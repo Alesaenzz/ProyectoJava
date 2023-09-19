@@ -4,4 +4,4 @@ Integrantes:
 Alejandro Saenz Ponce
 
 Github:
-https://github.com/Alesaenzz/ProyectoJava.git
+https://github.com/Alesaenzz/ProyectoJavaIIC.git
